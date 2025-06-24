@@ -5,11 +5,11 @@ Phishing is a type of cyber attack where attackers pretend to be a trusted perso
 
 🧠 What to Remember:
 
->> Phishing is about tricking you.
+==> Phishing is about tricking you.
 
->> These emails are made to look official but contain many warning signs.
+--> These emails are made to look official but contain many warning signs.
 
->> Always double-check links, sender addresses, and language.
+-- Always double-check links, sender addresses, and language.
 
 >> Never give away personal or financial information through email.
 
