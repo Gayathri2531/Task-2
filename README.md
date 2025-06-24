@@ -5,23 +5,23 @@ Phishing is a type of cyber attack where attackers pretend to be a trusted perso
 
 🧠 What to Remember:
 
-==> Phishing is about tricking you.
+--> Phishing is about tricking you.
 
 --> These emails are made to look official but contain many warning signs.
 
--- Always double-check links, sender addresses, and language.
+--> Always double-check links, sender addresses, and language.
 
->> Never give away personal or financial information through email.
+--> Never give away personal or financial information through email.
 
->> When in doubt, go directly to the official website or contact the organization.
+--> When in doubt, go directly to the official website or contact the organization.
 
 
 🔒 Stay Safe Online:
 
->> Use strong passwords.
+--> Use strong passwords.
 
->> Enable two-factor authentication (2FA).
+--> Enable two-factor authentication (2FA).
 
->> Keep your devices and browsers updated.
+--> Keep your devices and browsers updated.
 
->> Report suspicious emails to your email provider or your bank.
+--> Report suspicious emails to your email provider or your bank.
